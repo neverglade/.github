@@ -4,4 +4,8 @@
 
 
 
+<p><i>Please note that as of current the colour scheme and all ports were created by me (<a href="https://github.com/emmalexandria">emmalexandria</a>). This took many months of work, so if you have some dollars burning a hole in your pocket, I'd highly appreciate a tip.</i></p>
+
+
+
 
